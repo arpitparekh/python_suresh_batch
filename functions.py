@@ -94,5 +94,5 @@ def another(a,b,c):
 print(another(12,13,14)(44,34,32))
 
 # make qr code
-qr = make_qr(content="https://pypi.org/project/segno/")
+qr = make_qr(content="https://github.com/arpitparekh")
 qr.save("qr.png")
