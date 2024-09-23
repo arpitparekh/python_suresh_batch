@@ -10,8 +10,6 @@
 # pass
 
 # while loop
-from numpy import char
-
 
 num = 12
 while(num>1):  # while loop iterate untill condition is true
