@@ -61,7 +61,6 @@ button.pack()
 
 root.mainloop()
 
-
 """
 # Tkinter Label Constructor Parameters
 
